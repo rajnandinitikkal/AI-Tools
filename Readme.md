@@ -13,7 +13,7 @@ Paid version -- GPT-4
 ## • Futurepedia
 Used for : Pltform for finding AI Tools 
 
-Free/Paid:
+Free/Paid: <br>
 It's Free for some AI Tools
 
 ## • DeepCode
@@ -67,6 +67,14 @@ Generates Art
 Make PPT
 
 ## • Google Bard
+
+Description : Bard is Google's experimental, conversational, AI chat service. It is meant to function similarly to ChatGPT, with the biggest difference being that Google's service will pull its information from the web. 
+<br>
+Like most AI chatbots, Bard can code, answer math problems, and help with your writing needs.
+
+Free/Paid :
+<br>
+Free to use .
 
 ## • Adobe Firefly
 For Photoshop
