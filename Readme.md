@@ -4,32 +4,46 @@
 ## • ChatGPT
 Used For : solves Anything
 
+Description: Conversational AI language model developed by OpenAI, capable of generating human-like responses in natural language conversations.
+
+Free/Paid: 
+Free version -- GPT-3.5
+Paid version -- GPT-4
+
 ## • Futurepedia
-Ai Toll that find All other AI tools 
+Used for : Pltform for finding AI Tools 
 
-
-## • Midjourny 
-Generates Art
-
-## • Gamma App
-Make PPT
-
-## • Google Bard
-
-## • Adobe Firefly
-For Photoshop
+Free/Paid:
+It's Free for some AI Tools
 
 ## • DeepCode
-For finding bugs and errors
+Used For : Finding bugs and errors from code
+
+Description: AI-powered code review tool that analyzes code and provides suggestions for improvements and bug fixes.
+
+Free/Paid:
+free
 
 ## • Writesonic
-Write Anything
+Used for : Write Anything
+
+Description: AI-powered writing assistant that helps generate content, including articles, blog posts, and marketing copy.
+
 
 ## • Tabnine
-Auto code completion
+Used for : Auto code completion
+
+Description: An AI-powered code completion tool for developers, helping improve coding productivity.
+
+## • runwayml.ai
+Used foe :Remove background from video
+
+Description: An AI software platform that allows artists and creators to integrate machine learning models into their projects.
+
+
 
 ## • Replict
-Generate Code
+Used for : Generate Code
 
 ## • Mintlify
 Generates documentation and comments.
@@ -42,8 +56,17 @@ For building website
 ## • 11ElevenLabs.ai
 For converting voice
 
-## • runwayml.ai
-Remove background from video
 
 ## Replicate
 clear bloor images
+
+## • Midjourny 
+Generates Art
+
+## • Gamma App
+Make PPT
+
+## • Google Bard
+
+## • Adobe Firefly
+For Photoshop
