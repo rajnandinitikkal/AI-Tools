@@ -22,7 +22,7 @@ Used For : Finding bugs and errors from code
 Description: AI-powered code review tool that analyzes code and provides suggestions for improvements and bug fixes.
 
 Free/Paid:
-free
+You can make 60 presentation for free and upgrade for more presentation
 
 ## • Writesonic
 Used for : Write Anything
@@ -64,7 +64,7 @@ clear bloor images
 Generates Art
 
 ## • Gamma App
-Make PPT
+Used For PPT Presentation 
 
 ## • Google Bard
 
