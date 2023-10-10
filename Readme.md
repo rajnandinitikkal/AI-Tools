@@ -12,12 +12,12 @@ Paid version -- GPT-4
 <br>
 
 ## Pltform for finding AI Tools 
-### • Futurepedia
+### • [Futurepedia](https://www.futurepedia.io/)
 Free/Paid: <br>
 It's Free for some AI Tools
 
 ## Finding bugs and errors from code
-### • DeepCode
+### • [DeepCode](https://medium.com/@deepcode.ai)
 
 Description: AI-powered code review tool that analyzes code and provides suggestions for improvements and bug fixes.
 
@@ -25,25 +25,23 @@ Free/Paid:
 free
 
 ##  Write Anything
-### • Writesonic / Copy.AI
+### • [Writesonic](https://writesonic.com/)
+### • [Copy.AI](https://www.copy.ai/)
 
 Description: AI-powered writing assistant that helps generate content, including articles, blog posts, and marketing copy.
 
-## Auto code completion
-### • Tabnine
-
-Description: An AI-powered code completion tool for developers, helping improve coding productivity.
 
 ## Remove background from video
-### • runwayml.ai
+### • [runwayml.ai](https://runway.ai/)
 
 Description: An AI software platform that allows artists and creators to integrate machine learning models into their projects.
 
 
 ## AI Coding Assistants
 
-### 1. GitHub Copilot
-### 2. Tabnine
+### 1. [GitHub Copilot](https://github.com/features/copilot)
+### 2. [Tabnine](https://www.tabnine.com/)
+
 ### 3. Replit
 ### 4. Soursegraphy Cody
 ### 5. AskCodi
@@ -64,26 +62,24 @@ Description: An AI software platform that allows artists and creators to integra
 ## For building website
 ### • Framer.ai
 
-## clear bloor images
-### • 11ElevenLabs.ai
-
-
-
-## Generates Art
+## Generates Art / Design
 ### • Midjourny 
 
 Description : Midjourney is an independent research lab exploirng new mediums of thought and expanding the imaginative powers of human series.
 
 Free/Paid : <br>
 Midjourney is not free for use.
-
 ### Is there any AI like Midjourny ?
 * Adobe Firefly
 
+### • Image Creater
+
+### • 11ElevenLabs.ai
+### • Designer
 
 ## Create PPT
 ### • Gamma App
-### • Tome.app
+### • [Tome.app](https://tome.app/)
 
 Free/Paid :
 <br>
