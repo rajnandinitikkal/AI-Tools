@@ -2,7 +2,7 @@
 
 ## Solves Anything
 
-### • ChatGPT
+### • [ChatGPT](https://chat.openai.com/)
 
 Description: Conversational AI language model developed by OpenAI, capable of generating human-like responses in natural language conversations.
 
@@ -91,7 +91,7 @@ You can make 60 presentations for Free. <br>
 Upgrade for More Presentations.
 
 
-### • Google Bard
+### • [Google Bard](https://bard.google.com/)
 
 Description : Bard is Google's experimental, conversational, AI chat service. It is meant to function similarly to ChatGPT, with the biggest difference being that Google's service will pull its information from the web. 
 <br>
