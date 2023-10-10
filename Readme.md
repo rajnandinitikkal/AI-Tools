@@ -2,7 +2,7 @@
 
 ## Solves Anything
 
-### • ChatGPT
+### • [ChatGPT](https://chat.openai.com/)
 
 Description: Conversational AI language model developed by OpenAI, capable of generating human-like responses in natural language conversations.
 
