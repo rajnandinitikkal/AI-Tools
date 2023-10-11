@@ -30,6 +30,10 @@ free
 
 Description: AI-powered writing assistant that helps generate content, including articles, blog posts, and marketing copy.
 
+Free/Paid : Paid
+<br>
+Writesonic offers a free plan where you get 10k free premium words
+
 
 ## Remove background from video
 ### • [runwayml.ai](https://runway.ai/)
@@ -78,7 +82,7 @@ Midjourney is not free for use.
 ### • Designer
 
 ## Create PPT
-### • Gamma App
+### • [Gamma App](https://gamma.app/)
 ### • [Tome.app](https://tome.app/)
 
 Free/Paid :
