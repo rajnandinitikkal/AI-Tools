@@ -16,8 +16,11 @@ Free/Paid:
 
 ## Pltform for finding AI Tools 
 ### • [Futurepedia](https://www.futurepedia.io/)
+Description:
+Futurepedia is a platform for finding AI tools. It lists a wide variety of AI tools, including GPT-3, Bard, and DeepCode.
+
 Free/Paid: <br>
-It's Free for some AI Tools
+  - Futurepedia is free to use for some AI tools. For other AI tools, you may need to pay a subscription fee.
 
 ## Finding bugs and errors from code
 ### • [DeepCode](https://medium.com/@deepcode.ai)
