@@ -61,10 +61,20 @@ Description: An AI software platform that allows artists and creators to integra
 ### 15. Amazon CodeWhisperer
 
 ## Generates documentation and comments
-### • Mintlify
+### • [Mintlify](https://writer.mintlify.com/)
+Description: The AI-powered documentation writer. It's documentation that just appears as you build.
+<br> Mintlify provides extensions for various code editors/IDEs.
+
+Free/Paid: <br>
+Mintlify Writer is supplied as a free extension for Visual Studio Code and IntelliJ Idea.
+
 
 ## For building website
 ### • Framer.ai
+Description : Framer is an interactive design tool for websites and prototyping. It excels at building entire marketing sites, landing pages, online campaigns and much more. It supports every part of the design process, from visual mockups to interactive prototypes, but its unique strength is publishing directly from the canvas.
+<br>
+Free/Paid :
+<br> Framer is a free platform.
 
 ## Generates Art / Design
 ### • Midjourny 
@@ -78,8 +88,13 @@ Midjourney is not free for use.
 
 ### • Image Creater
 
-### • 11ElevenLabs.ai
-### • Designer
+### • [ElevenLabs.ai](https://elevenlabs.io/)
+Description: AI Voice Generator and Research Lab. Generate high-quality text to speech in any voice, style and language with the most powerful AI speech tool ever.
+<br>
+Free/Paid :
+<br> $5 per month for 30,000 characters, up to 10 custom voices, and instant voice cloning.
+
+### • [Designer.ai](https://designs.ai/en)
 
 ## Create PPT
 ### • [Gamma App](https://gamma.app/)
