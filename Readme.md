@@ -29,7 +29,7 @@ Description: DeepCode is an AI-powered code review tool that analyzes code and p
 DeepCode supports a variety of programming languages, including Python, Java, C++, and JavaScript.
 
 Free/Paid:
-free
+  - DeepCode is free to use.
 
 ##  Write Anything
 ### • [Writesonic](https://writesonic.com/)
@@ -45,8 +45,10 @@ Writesonic offers a free plan where you get 10k free premium words
 ## Remove background from video
 ### • [runwayml.ai](https://runway.ai/)
 
-Description: An AI software platform that allows artists and creators to integrate machine learning models into their projects.
-
+Description: RunwayML is an AI software platform that allows artists and creators to integrate machine learning models into their projects.
+RunwayML offers a variety of tools for different tasks, including video editing, image generation, and music production.
+Free/Paid :
+  - RunwayML has both free and paid plans.
 
 ## AI Coding Assistants
 
