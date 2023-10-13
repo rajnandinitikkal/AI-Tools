@@ -4,11 +4,14 @@
 
 ### • [ChatGPT](https://chat.openai.com/)
 
-Description: Conversational AI language model developed by OpenAI, capable of generating human-like responses in natural language conversations.
+Description: ChatGPT is a conversational AI language model developed by OpenAI. It is capable of generating human-like responses in natural language conversations.
+ChatGPT can be used for a variety of tasks, including:
+  - Answering your questions in a comprehensive and informative way, even if they are open ended, challenging, or strange.
+  - Generating different creative text formats of text content, like poems, code, scripts, musical pieces, email, letters, etc.
 
 Free/Paid: 
-Free version -- GPT-3.5
-Paid version -- GPT-4
+  - Free version -- GPT-3.5
+  - Paid version -- GPT-4
 <br>
 
 ## Pltform for finding AI Tools 
