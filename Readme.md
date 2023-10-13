@@ -25,7 +25,8 @@ Free/Paid: <br>
 ## Finding bugs and errors from code
 ### • [DeepCode](https://medium.com/@deepcode.ai)
 
-Description: AI-powered code review tool that analyzes code and provides suggestions for improvements and bug fixes.
+Description: DeepCode is an AI-powered code review tool that analyzes code and provides suggestions for improvements and bug fixes.
+DeepCode supports a variety of programming languages, including Python, Java, C++, and JavaScript.
 
 Free/Paid:
 free
