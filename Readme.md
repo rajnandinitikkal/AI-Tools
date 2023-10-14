@@ -4,25 +4,32 @@
 
 ### • [ChatGPT](https://chat.openai.com/)
 
-Description: Conversational AI language model developed by OpenAI, capable of generating human-like responses in natural language conversations.
+Description: ChatGPT is a conversational AI language model developed by OpenAI. It is capable of generating human-like responses in natural language conversations.
+ChatGPT can be used for a variety of tasks, including:
+  - Answering your questions in a comprehensive and informative way, even if they are open ended, challenging, or strange.
+  - Generating different creative text formats of text content, like poems, code, scripts, musical pieces, email, letters, etc.
 
 Free/Paid: 
-Free version -- GPT-3.5
-Paid version -- GPT-4
+  - Free version -- GPT-3.5
+  - Paid version -- GPT-4
 <br>
 
 ## Pltform for finding AI Tools 
 ### • [Futurepedia](https://www.futurepedia.io/)
+Description:
+Futurepedia is a platform for finding AI tools. It lists a wide variety of AI tools, including GPT-3, Bard, and DeepCode.
+
 Free/Paid: <br>
-It's Free for some AI Tools
+  - Futurepedia is free to use for some AI tools. For other AI tools, you may need to pay a subscription fee.
 
 ## Finding bugs and errors from code
 ### • [DeepCode](https://medium.com/@deepcode.ai)
 
-Description: AI-powered code review tool that analyzes code and provides suggestions for improvements and bug fixes.
+Description: DeepCode is an AI-powered code review tool that analyzes code and provides suggestions for improvements and bug fixes.
+DeepCode supports a variety of programming languages, including Python, Java, C++, and JavaScript.
 
 Free/Paid:
-free
+  - DeepCode is free to use.
 
 ##  Write Anything
 ### • [Writesonic](https://writesonic.com/)
@@ -38,8 +45,10 @@ Writesonic offers a free plan where you get 10k free premium words
 ## Remove background from video
 ### • [runwayml.ai](https://runway.ai/)
 
-Description: An AI software platform that allows artists and creators to integrate machine learning models into their projects.
-
+Description: RunwayML is an AI software platform that allows artists and creators to integrate machine learning models into their projects.
+RunwayML offers a variety of tools for different tasks, including video editing, image generation, and music production.
+Free/Paid :
+  - RunwayML has both free and paid plans.
 
 ## AI Coding Assistants
 
