@@ -4,7 +4,6 @@
 
 ### • [ChatGPT](https://chat.openai.com/)
 
-
 Description: ChatGPT is a conversational AI language model developed by OpenAI. It is capable of generating human-like responses in natural language conversations.
 ChatGPT can be used for a variety of tasks, including:
   - Answering your questions in a comprehensive and informative way, even if they are open ended, challenging, or strange.
@@ -42,6 +41,9 @@ DeepCode supports a variety of programming languages, including Python, Java, C+
 Free/Paid:
   - DeepCode is free to use.
 
+Check here how to use DeepCode <br>
+[In English](https://www.youtube.com/watch?v=3J5cVuEJ8WE)
+
 ##  Write Anything
 ### • [Writesonic](https://writesonic.com/)
 ### • [Copy.AI](https://www.copy.ai/)
@@ -51,6 +53,9 @@ Description: AI-powered writing assistant that helps generate content, including
 Free/Paid : Paid
 <br>
 Writesonic offers a free plan where you get 10k free premium words
+
+[Check Here How To Use Copy.ai](https://www.youtube.com/watch?v=eQOVtoqnhcs)<br>
+[Check Here How To Use Writesonic](https://www.youtube.com/watch?v=IppylucTfP0)
 
 
 ## Remove background from video
@@ -92,9 +97,11 @@ Mintlify Writer is supplied as a free extension for Visual Studio Code and Intel
 ## For building website
 ### • Framer.ai
 Description : Framer is an interactive design tool for websites and prototyping. It excels at building entire marketing sites, landing pages, online campaigns and much more. It supports every part of the design process, from visual mockups to interactive prototypes, but its unique strength is publishing directly from the canvas.
-<br>
+<br><br>
 Free/Paid :
 <br> Framer is a free platform.
+
+[Check Here How To use](https://www.youtube.com/watch?v=50H-u8_Mhjg)
 
 ## Generates Art / Design
 ### • Midjourny 
