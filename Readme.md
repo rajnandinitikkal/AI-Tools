@@ -4,6 +4,7 @@
 
 ### • [ChatGPT](https://chat.openai.com/)
 
+
 Description: ChatGPT is a conversational AI language model developed by OpenAI. It is capable of generating human-like responses in natural language conversations.
 ChatGPT can be used for a variety of tasks, including:
   - Answering your questions in a comprehensive and informative way, even if they are open ended, challenging, or strange.
@@ -12,6 +13,12 @@ ChatGPT can be used for a variety of tasks, including:
 Free/Paid: 
   - Free version -- GPT-3.5
   - Paid version -- GPT-4
+<br><br>
+• You can check Here how to use <br>
+[In English](https://www.youtube.com/watch?v=AXn2XVLf7d0)
+<br>
+[In Hindi](https://www.youtube.com/watch?v=Nz1MI8nsFTs)
+
 <br>
 
 ## Pltform for finding AI Tools 
@@ -21,6 +28,10 @@ Futurepedia is a platform for finding AI tools. It lists a wide variety of AI to
 
 Free/Paid: <br>
   - Futurepedia is free to use for some AI tools. For other AI tools, you may need to pay a subscription fee.
+
+  You can check here how to use <br>
+  [In Hindi](https://www.youtube.com/watch?v=O__lsy8fETI)<br>
+  [In English](https://www.youtube.com/watch?v=TEYefFL7tZE)
 
 ## Finding bugs and errors from code
 ### • [DeepCode](https://medium.com/@deepcode.ai)
