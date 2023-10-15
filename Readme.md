@@ -146,4 +146,5 @@ Description : Bard is Google's experimental, conversational, AI chat service. It
 <br>
 Like most AI chatbots, Bard can code, answer math problems, and help with your writing needs.
 
-Free/Paid : Free to use .
+Free/Paid : Free to use . <br>
+[Check Here How To use Google Bard](https://www.youtube.com/watch?v=Qay0SzVNaFU)
