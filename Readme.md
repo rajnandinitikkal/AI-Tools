@@ -13,7 +13,7 @@ Free/Paid:
   - Free version -- GPT-3.5
   - Paid version -- GPT-4
 <br><br>
-• You can check Here how to use <br>
+• Check Here how to use <br>
 [In English](https://www.youtube.com/watch?v=AXn2XVLf7d0)
 <br>
 [In Hindi](https://www.youtube.com/watch?v=Nz1MI8nsFTs)
@@ -93,6 +93,10 @@ Description: The AI-powered documentation writer. It's documentation that just a
 Free/Paid: <br>
 Mintlify Writer is supplied as a free extension for Visual Studio Code and IntelliJ Idea.
 
+Check Here How to Use <br>
+[In English](https://www.youtube.com/watch?v=SvMPmfLtoGA)<br>
+[In Hindi](https://www.youtube.com/watch?v=zmoveFAiGPU)
+
 
 ## For building website
 ### • Framer.ai
@@ -132,6 +136,9 @@ Free/Paid :
 You can make 60 presentations for Free. <br>
 Upgrade for More Presentations.
 
+[Check Here How To Use Tome.app](https://www.youtube.com/watch?v=QoctedRQz3c)<br>
+[Check Here How To Use Gamma app](https://www.youtube.com/watch?v=Kxqx-Fgk2TA)
+
 
 ### • [Google Bard](https://bard.google.com/)
 
@@ -139,6 +146,4 @@ Description : Bard is Google's experimental, conversational, AI chat service. It
 <br>
 Like most AI chatbots, Bard can code, answer math problems, and help with your writing needs.
 
-Free/Paid :
-<br>
-Free to use .
+Free/Paid : Free to use .
