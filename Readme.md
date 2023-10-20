@@ -69,6 +69,8 @@ Free/Paid :
 ## AI Coding Assistants
 
 ### 1. [GitHub Copilot](https://github.com/features/copilot)
+Description: Suggest Code in Visual Code Studio 
+
 ### 2. [Tabnine](https://www.tabnine.com/)
 
 ### 3. Replit
@@ -82,6 +84,8 @@ Free/Paid :
 ### 11. CodeWP
 ### 12. Bugasura
 ### 13. Codium
+Description : Find Error and suggest correct code .
+
 ### 14. CodeGPT
 ### 15. Amazon CodeWhisperer
 
