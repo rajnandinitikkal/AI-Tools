@@ -16,6 +16,7 @@ Free/Paid:
 • Check Here how to use <br>
 [In English](https://www.youtube.com/watch?v=AXn2XVLf7d0)
 <br>
+
 [In Hindi](https://www.youtube.com/watch?v=Nz1MI8nsFTs)
 
 <br>
@@ -136,7 +137,7 @@ Free/Paid : Free to use . <br>
 ### 2. [Tabnine](https://www.tabnine.com/)
 
 ### 3. [Replit](https://replit.com/)
-### 4. [Soursegraphy Cody](https://about.sourcegraph.com/cody
+### 4. [Soursegraphy Cody](https://about.sourcegraph.com/cody)
 ### 5. [AskCodi](https://www.askcodi.com/)
 ### 6. [Codiga](https://www.codiga.io/)
 ### 7. WPCode
