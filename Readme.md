@@ -66,25 +66,6 @@ RunwayML offers a variety of tools for different tasks, including video editing,
 Free/Paid :
   - RunwayML has both free and paid plans.
 
-## AI Coding Assistants
-
-### 1. [GitHub Copilot](https://github.com/features/copilot)
-### 2. [Tabnine](https://www.tabnine.com/)
-
-### 3. Replit
-### 4. Soursegraphy Cody
-### 5. AskCodi
-### 6. Codiga
-### 7. SinCode
-### 8. WPCode
-### 9. Android Studio Bot
-### 10. AI helper Bot
-### 11. CodeWP
-### 12. Bugasura
-### 13. Codium
-### 14. CodeGPT
-### 15. Amazon CodeWhisperer
-
 ## Generates documentation and comments
 ### • [Mintlify](https://writer.mintlify.com/)
 Description: The AI-powered documentation writer. It's documentation that just appears as you build.
@@ -148,3 +129,22 @@ Like most AI chatbots, Bard can code, answer math problems, and help with your w
 
 Free/Paid : Free to use . <br>
 [Check Here How To use Google Bard](https://www.youtube.com/watch?v=Qay0SzVNaFU)
+
+## AI Coding Assistants
+
+### 1. [GitHub Copilot](https://github.com/features/copilot)
+### 2. [Tabnine](https://www.tabnine.com/)
+
+### 3. [Replit](https://replit.com/)
+### 4. [Soursegraphy Cody](https://about.sourcegraph.com/cody
+### 5. [AskCodi](https://www.askcodi.com/)
+### 6. [Codiga](https://www.codiga.io/)
+### 7. WPCode
+### 8. Android Studio Bot
+### 9. AI helper Bot
+### 10. CodeWP
+### 11. Bugasura
+### 12. Codium
+### 13. CodeGPT
+### 14. Amazon CodeWhisperer
+
