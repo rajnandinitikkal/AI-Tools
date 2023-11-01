@@ -66,6 +66,13 @@ RunwayML offers a variety of tools for different tasks, including video editing,
 Free/Paid :
   - RunwayML has both free and paid plans.
 
+## Summerise article 
+### - [pop.ai](https://www.popai.pro/)
+
+Description: The fast AI PDF reader. It can read, cite, and summarize PDF files for you. AI with boosted answers.
+Free/Paid : 
+- Paid
+
 ## AI Coding Assistants
 
 ### 1. [GitHub Copilot](https://github.com/features/copilot)
