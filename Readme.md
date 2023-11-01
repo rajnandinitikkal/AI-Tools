@@ -16,6 +16,7 @@ Free/Paid:
 • Check Here how to use <br>
 [In English](https://www.youtube.com/watch?v=AXn2XVLf7d0)
 <br>
+
 [In Hindi](https://www.youtube.com/watch?v=Nz1MI8nsFTs)
 
 <br>
@@ -66,18 +67,9 @@ RunwayML offers a variety of tools for different tasks, including video editing,
 Free/Paid :
   - RunwayML has both free and paid plans.
 
-## Summerise article 
-### - [pop.ai](https://www.popai.pro/)
-
-Description: The fast AI PDF reader. It can read, cite, and summarize PDF files for you. AI with boosted answers.
-Free/Paid : 
-- Paid
-
 ## AI Coding Assistants
 
 ### 1. [GitHub Copilot](https://github.com/features/copilot)
-Description: Suggest Code in Visual Code Studio 
-
 ### 2. [Tabnine](https://www.tabnine.com/)
 
 ### 3. Replit
@@ -91,8 +83,6 @@ Description: Suggest Code in Visual Code Studio
 ### 11. CodeWP
 ### 12. Bugasura
 ### 13. Codium
-Description : Find Error and suggest correct code .
-
 ### 14. CodeGPT
 ### 15. Amazon CodeWhisperer
 
@@ -159,3 +149,22 @@ Like most AI chatbots, Bard can code, answer math problems, and help with your w
 
 Free/Paid : Free to use . <br>
 [Check Here How To use Google Bard](https://www.youtube.com/watch?v=Qay0SzVNaFU)
+
+## AI Coding Assistants
+
+### 1. [GitHub Copilot](https://github.com/features/copilot)
+### 2. [Tabnine](https://www.tabnine.com/)
+
+### 3. [Replit](https://replit.com/)
+### 4. [Soursegraphy Cody](https://about.sourcegraph.com/cody)
+### 5. [AskCodi](https://www.askcodi.com/)
+### 6. [Codiga](https://www.codiga.io/)
+### 7. WPCode
+### 8. Android Studio Bot
+### 9. AI helper Bot
+### 10. CodeWP
+### 11. Bugasura
+### 12. Codium
+### 13. CodeGPT
+### 14. Amazon CodeWhisperer
+
