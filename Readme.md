@@ -159,11 +159,11 @@ Free/Paid : Free to use . <br>
 ### 4. [Soursegraphy Cody](https://about.sourcegraph.com/cody)
 ### 5. [AskCodi](https://www.askcodi.com/)
 ### 6. [Codiga](https://www.codiga.io/)
-### 7. WPCode
+### 7. [WPCode](https://wpcode.com/)
 ### 8. Android Studio Bot
 ### 9. AI helper Bot
-### 10. CodeWP
-### 11. Bugasura
+### 10. [CodeWP](https://codewp.ai/)
+### 11. [Bugasura](https://bugasura.io/)
 ### 12. Codium
 ### 13. CodeGPT
 ### 14. Amazon CodeWhisperer
