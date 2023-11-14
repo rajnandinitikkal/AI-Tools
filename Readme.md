@@ -101,7 +101,7 @@ Check Here How to Use <br>
 
 ## For building website
 ### • Framer.ai
-Description : Framer is an interactive design tool for websites and prototyping. It excels at building entire marketing sites, landing pages, online campaigns and much more. It supports every part of the design process, from visual mockups to interactive prototypes, but its unique strength is publishing directly from the canvas.
+Description: Framer is an interactive design tool for websites and prototyping. It excels at building entire marketing sites, landing pages, online campaigns, and much more. It supports every part of the design process, from visual mockups to interactive prototypes, but its unique strength is publishing directly from the canvas.
 <br><br>
 Free/Paid :
 <br> Framer is a free platform.
@@ -109,19 +109,19 @@ Free/Paid :
 [Check Here How To use](https://www.youtube.com/watch?v=50H-u8_Mhjg)
 
 ## Generates Art / Design
-### • [Midjourny](https://www.midjourney.com/home)
+### • [Midjourney](https://www.midjourney.com/home)
 
-Description : Midjourney is an independent research lab exploirng new mediums of thought and expanding the imaginative powers of human series.
+Description: Midjourney is an independent research lab exploiting new mediums of thought and expanding the imaginative powers of human series.
 
-Free/Paid : <br>
+Free/Paid: <br>
 Midjourney is not free for use.
-### Is there any AI like Midjourny ?
+### Is there any AI like Midjourney?
 * Adobe Firefly
 
-### • Image Creater
+### • Image Creator
 
 ### • [ElevenLabs.ai](https://elevenlabs.io/)
-Description: AI Voice Generator and Research Lab. Generate high-quality text to speech in any voice, style and language with the most powerful AI speech tool ever.
+Description: AI Voice Generator and Research Lab. Generate high-quality text-to-speech in any voice, style, and language with the most powerful AI speech tool ever.
 <br>
 Free/Paid :
 <br> $5 per month for 30,000 characters, up to 10 custom voices, and instant voice cloning.
@@ -143,11 +143,11 @@ Upgrade for More Presentations.
 
 ### • [Google Bard](https://bard.google.com/)
 
-Description : Bard is Google's experimental, conversational, AI chat service. It is meant to function similarly to ChatGPT, with the biggest difference being that Google's service will pull its information from the web. 
+Description: Bard is Google's experimental, conversational, AI chat service. It is meant to function similarly to ChatGPT, with the biggest difference being that Google's service will pull its information from the web. 
 <br>
 Like most AI chatbots, Bard can code, answer math problems, and help with your writing needs.
 
-Free/Paid : Free to use . <br>
+Free/Paid: Free to use. <br>
 [Check Here How To use Google Bard](https://www.youtube.com/watch?v=Qay0SzVNaFU)
 
 ## AI Coding Assistants
