@@ -6,8 +6,8 @@
 
 Description: ChatGPT is a conversational AI language model developed by OpenAI. It is capable of generating human-like responses in natural language conversations.
 ChatGPT can be used for a variety of tasks, including:
-  - Answering your questions in a comprehensive and informative way, even if they are open ended, challenging, or strange.
-  - Generating different creative text formats of text content, like poems, code, scripts, musical pieces, email, letters, etc.
+  - Answering your questions in a comprehensive and informative way, even if they are open-ended, challenging, or strange.
+  - Generating different creative text formats of text content, like poems, code, scripts, musical pieces, emails, letters, etc.
 
 Free/Paid: 
   - Free version -- GPT-3.5
@@ -21,7 +21,7 @@ Free/Paid:
 
 <br>
 
-## Pltform for finding AI Tools 
+## Platform for finding AI Tools 
 ### • [Futurepedia](https://www.futurepedia.io/)
 Description:
 Futurepedia is a platform for finding AI tools. It lists a wide variety of AI tools, including GPT-3, Bard, and DeepCode.
@@ -33,7 +33,7 @@ Free/Paid: <br>
   [In Hindi](https://www.youtube.com/watch?v=O__lsy8fETI)<br>
   [In English](https://www.youtube.com/watch?v=TEYefFL7tZE)
 
-## Finding bugs and errors from code
+## Finding bugs and errors in code
 ### • [DeepCode](https://medium.com/@deepcode.ai)
 
 Description: DeepCode is an AI-powered code review tool that analyzes code and provides suggestions for improvements and bug fixes.
@@ -51,7 +51,7 @@ Check here how to use DeepCode <br>
 
 Description: AI-powered writing assistant that helps generate content, including articles, blog posts, and marketing copy.
 
-Free/Paid : Paid
+Free/Paid: Paid
 <br>
 Writesonic offers a free plan where you get 10k free premium words
 
