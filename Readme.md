@@ -109,7 +109,7 @@ Free/Paid :
 [Check Here How To use](https://www.youtube.com/watch?v=50H-u8_Mhjg)
 
 ## Generates Art / Design
-### • Midjourny 
+### • [Midjourny](https://www.midjourney.com/home)
 
 Description : Midjourney is an independent research lab exploirng new mediums of thought and expanding the imaginative powers of human series.
 
