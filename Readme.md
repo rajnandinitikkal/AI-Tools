@@ -165,6 +165,6 @@ Free/Paid: Free to use. <br>
 ### 10. [CodeWP](https://codewp.ai/)
 ### 11. [Bugasura](https://bugasura.io/)
 ### 12. Codium
-### 13. CodeGPT
+### 13. [CodeGPT](https://www.codegpt.co/)
 ### 14. Amazon CodeWhisperer
 
