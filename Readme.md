@@ -164,7 +164,7 @@ Free/Paid: Free to use. <br>
 ### 9. AI helper Bot
 ### 10. [CodeWP](https://codewp.ai/)
 ### 11. [Bugasura](https://bugasura.io/)
-### 12. Codium
+### 12. [Codium](https://www.codium.ai/)
 ### 13. [CodeGPT](https://www.codegpt.co/)
 ### 14. Amazon CodeWhisperer
 
