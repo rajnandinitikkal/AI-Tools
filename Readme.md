@@ -67,24 +67,12 @@ RunwayML offers a variety of tools for different tasks, including video editing,
 Free/Paid :
   - RunwayML has both free and paid plans.
 
-## AI Coding Assistants
+## Summerise article 
+### - [pop.ai](https://www.popai.pro/)
 
-### 1. [GitHub Copilot](https://github.com/features/copilot)
-### 2. [Tabnine](https://www.tabnine.com/)
-
-### 3. Replit
-### 4. Soursegraphy Cody
-### 5. AskCodi
-### 6. Codiga
-### 7. SinCode
-### 8. WPCode
-### 9. Android Studio Bot
-### 10. AI helper Bot
-### 11. CodeWP
-### 12. Bugasura
-### 13. Codium
-### 14. CodeGPT
-### 15. Amazon CodeWhisperer
+Description: The fast AI PDF reader. It can read, cite, and summarize PDF files for you. AI with boosted answers.
+Free/Paid : 
+- Paid
 
 ## Generates documentation and comments
 ### • [Mintlify](https://writer.mintlify.com/)
