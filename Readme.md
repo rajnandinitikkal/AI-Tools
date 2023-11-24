@@ -100,14 +100,18 @@ Check Here How to Use <br>
 
 
 ## For building website
-### • Framer.ai
+### • [Framer.ai]
 Description: Framer is an interactive design tool for websites and prototyping. It excels at building entire marketing sites, landing pages, online campaigns, and much more. It supports every part of the design process, from visual mockups to interactive prototypes, but its unique strength is publishing directly from the canvas.
 <br><br>
 Free/Paid :
-<br> Framer is a free platform.
+
+  - Free. $0. Forever 
+  - Basic. $20. Per editor per month 
+  - Pro. $40. Per editor per month
+
 
 [Check Here How To use](https://www.youtube.com/watch?v=50H-u8_Mhjg)
-
+<br> 
 ## Generates Art / Design
 ### • [Midjourney](https://www.midjourney.com/home)
 
