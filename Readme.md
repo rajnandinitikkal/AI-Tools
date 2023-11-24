@@ -6,8 +6,8 @@
 
 Description: ChatGPT is a conversational AI language model developed by OpenAI. It is capable of generating human-like responses in natural language conversations.
 ChatGPT can be used for a variety of tasks, including:
-  - Answering your questions in a comprehensive and informative way, even if they are open ended, challenging, or strange.
-  - Generating different creative text formats of text content, like poems, code, scripts, musical pieces, email, letters, etc.
+  - Answering your questions in a comprehensive and informative way, even if they are open-ended, challenging, or strange.
+  - Generating different creative text formats of text content, like poems, code, scripts, musical pieces, emails, letters, etc.
 
 Free/Paid: 
   - Free version -- GPT-3.5
@@ -21,7 +21,7 @@ Free/Paid:
 
 <br>
 
-## Pltform for finding AI Tools 
+## Platform for finding AI Tools 
 ### • [Futurepedia](https://www.futurepedia.io/)
 Description:
 Futurepedia is a platform for finding AI tools. It lists a wide variety of AI tools, including GPT-3, Bard, and DeepCode.
@@ -33,7 +33,7 @@ Free/Paid: <br>
   [In Hindi](https://www.youtube.com/watch?v=O__lsy8fETI)<br>
   [In English](https://www.youtube.com/watch?v=TEYefFL7tZE)
 
-## Finding bugs and errors from code
+## Finding bugs and errors in code
 ### • [DeepCode](https://medium.com/@deepcode.ai)
 
 Description: DeepCode is an AI-powered code review tool that analyzes code and provides suggestions for improvements and bug fixes.
@@ -51,7 +51,7 @@ Check here how to use DeepCode <br>
 
 Description: AI-powered writing assistant that helps generate content, including articles, blog posts, and marketing copy.
 
-Free/Paid : Paid
+Free/Paid: Paid
 <br>
 Writesonic offers a free plan where you get 10k free premium words
 
@@ -89,7 +89,7 @@ Check Here How to Use <br>
 
 ## For building website
 ### • Framer.ai
-Description : Framer is an interactive design tool for websites and prototyping. It excels at building entire marketing sites, landing pages, online campaigns and much more. It supports every part of the design process, from visual mockups to interactive prototypes, but its unique strength is publishing directly from the canvas.
+Description: Framer is an interactive design tool for websites and prototyping. It excels at building entire marketing sites, landing pages, online campaigns, and much more. It supports every part of the design process, from visual mockups to interactive prototypes, but its unique strength is publishing directly from the canvas.
 <br><br>
 Free/Paid :
 <br> Framer is a free platform.
@@ -97,19 +97,19 @@ Free/Paid :
 [Check Here How To use](https://www.youtube.com/watch?v=50H-u8_Mhjg)
 
 ## Generates Art / Design
-### • Midjourny 
+### • [Midjourney](https://www.midjourney.com/home)
 
-Description : Midjourney is an independent research lab exploirng new mediums of thought and expanding the imaginative powers of human series.
+Description: Midjourney is an independent research lab exploiting new mediums of thought and expanding the imaginative powers of human series.
 
-Free/Paid : <br>
+Free/Paid: <br>
 Midjourney is not free for use.
-### Is there any AI like Midjourny ?
+### Is there any AI like Midjourney?
 * Adobe Firefly
 
-### • Image Creater
+### • Image Creator
 
 ### • [ElevenLabs.ai](https://elevenlabs.io/)
-Description: AI Voice Generator and Research Lab. Generate high-quality text to speech in any voice, style and language with the most powerful AI speech tool ever.
+Description: AI Voice Generator and Research Lab. Generate high-quality text-to-speech in any voice, style, and language with the most powerful AI speech tool ever.
 <br>
 Free/Paid :
 <br> $5 per month for 30,000 characters, up to 10 custom voices, and instant voice cloning.
@@ -131,11 +131,11 @@ Upgrade for More Presentations.
 
 ### • [Google Bard](https://bard.google.com/)
 
-Description : Bard is Google's experimental, conversational, AI chat service. It is meant to function similarly to ChatGPT, with the biggest difference being that Google's service will pull its information from the web. 
+Description: Bard is Google's experimental, conversational, AI chat service. It is meant to function similarly to ChatGPT, with the biggest difference being that Google's service will pull its information from the web. 
 <br>
 Like most AI chatbots, Bard can code, answer math problems, and help with your writing needs.
 
-Free/Paid : Free to use . <br>
+Free/Paid: Free to use. <br>
 [Check Here How To use Google Bard](https://www.youtube.com/watch?v=Qay0SzVNaFU)
 
 ## AI Coding Assistants
@@ -147,12 +147,12 @@ Free/Paid : Free to use . <br>
 ### 4. [Soursegraphy Cody](https://about.sourcegraph.com/cody)
 ### 5. [AskCodi](https://www.askcodi.com/)
 ### 6. [Codiga](https://www.codiga.io/)
-### 7. WPCode
+### 7. [WPCode](https://wpcode.com/)
 ### 8. Android Studio Bot
 ### 9. AI helper Bot
-### 10. CodeWP
-### 11. Bugasura
-### 12. Codium
-### 13. CodeGPT
+### 10. [CodeWP](https://codewp.ai/)
+### 11. [Bugasura](https://bugasura.io/)
+### 12. [Codium](https://www.codium.ai/)
+### 13. [CodeGPT](https://www.codegpt.co/)
 ### 14. Amazon CodeWhisperer
 
