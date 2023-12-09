@@ -133,7 +133,6 @@ Upgrade for More Presentations.
 
 
 ### • [Google Bard](https://bard.google.com/)
-
 Description: Bard is Google's experimental, conversational, AI chat service. It is meant to function similarly to ChatGPT, with the biggest difference being that Google's service will pull its information from the web. 
 <br>
 Like most AI chatbots, Bard can code, answer math problems, and help with your writing needs.
@@ -144,9 +143,13 @@ Free/Paid: Free to use. <br>
 ## AI Coding Assistants
 
 ### 1. [GitHub Copilot](https://github.com/features/copilot)
+Description: Get AI-based suggestions in real-time. GitHub Copilot suggests code completions as developers type and turns natural language prompts into coding suggestions. <br>
+Free/Paid: Free to use.
 ### 2. [Tabnine](https://www.tabnine.com/)
+Description: Tabnine is a valuable AI assistant for developers, offering AI-powered code completions and suggestions to enhance productivity. It supports various programming languages and major IDEs, allowing developers to benefit from its intelligent code suggestions.
 
 ### 3. [Replit](https://replit.com/)
+Description: Generate, edit, and explain code with Replit AI.Collaborate in our real-time multiplayer editor.Build, test, and deploy directly from the browser.
 ### 4. [Soursegraphy Cody](https://about.sourcegraph.com/cody)
 ### 5. [AskCodi](https://www.askcodi.com/)
 ### 6. [Codiga](https://www.codiga.io/)
