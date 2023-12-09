@@ -14,9 +14,8 @@ Free/Paid:
   - Paid version -- GPT-4
 <br><br>
 • Check Here how to use <br>
-[In English](https://www.youtube.com/watch?v=AXn2XVLf7d0)
-<br>
 
+[In English](https://www.youtube.com/watch?v=AXn2XVLf7d) <br>
 [In Hindi](https://www.youtube.com/watch?v=Nz1MI8nsFTs)
 
 <br>
@@ -152,11 +151,11 @@ Free/Paid: Free to use. <br>
 ### 5. [AskCodi](https://www.askcodi.com/)
 ### 6. [Codiga](https://www.codiga.io/)
 ### 7. [WPCode](https://wpcode.com/)
-### 8. Android Studio Bot
-### 9. AI helper Bot
+### 8. [Android Studio Bot](https://developer.android.com/studio/preview/studio-bot)
+### 9. [AI helper Bot](https://topai.tools/t/ai-sql-helper)
 ### 10. [CodeWP](https://codewp.ai/)
 ### 11. [Bugasura](https://bugasura.io/)
 ### 12. [Codium](https://www.codium.ai/)
 ### 13. [CodeGPT](https://www.codegpt.co/)
-### 14. Amazon CodeWhisperer
+### 14. [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
 
