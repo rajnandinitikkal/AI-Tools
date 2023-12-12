@@ -157,6 +157,7 @@ Description: AskCodi is an AI-powered code assistant designed to help developers
 ### 6. [Codiga](https://www.codiga.io/)
 ### 7. [WPCode](https://wpcode.com/)
 ### 8. [Android Studio Bot](https://developer.android.com/studio/preview/studio-bot)
+Description: Android Studio Bot is an AI-powered coding assistant within Android Studio, designed to help developers write code faster and more efficiently. It leverages Codey, Google's advanced foundation model for coding
 ### 9. [AI helper Bot](https://topai.tools/t/ai-sql-helper)
 ### 10. [CodeWP](https://codewp.ai/)
 ### 11. [Bugasura](https://bugasura.io/)
