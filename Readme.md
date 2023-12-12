@@ -121,6 +121,7 @@ Free/Paid :
 
 ## Create PPT
 ### • [Gamma App](https://gamma.app/)
+Description: Gamma app is a new medium for presenting ideas, powered by AI. It allows you to create beautiful, engaging content without any of the formatting or design work.
 ### • [Tome.app](https://tome.app/)
 
 Free/Paid :
