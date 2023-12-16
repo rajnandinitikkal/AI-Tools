@@ -121,6 +121,7 @@ Free/Paid :
 
 ## Create PPT
 ### • [Gamma App](https://gamma.app/)
+Description: Gamma app is a new medium for presenting ideas, powered by AI. It allows you to create beautiful, engaging content without any of the formatting or design work.
 ### • [Tome.app](https://tome.app/)
 
 Free/Paid :
@@ -152,9 +153,11 @@ Description: Tabnine is a valuable AI assistant for developers, offering AI-powe
 Description: Generate, edit, and explain code with Replit AI.Collaborate in our real-time multiplayer editor.Build, test, and deploy directly from the browser.
 ### 4. [Soursegraphy Cody](https://about.sourcegraph.com/cody)
 ### 5. [AskCodi](https://www.askcodi.com/)
+Description: AskCodi is an AI-powered code assistant designed to help developers write code faster and with less effort.
 ### 6. [Codiga](https://www.codiga.io/)
 ### 7. [WPCode](https://wpcode.com/)
 ### 8. [Android Studio Bot](https://developer.android.com/studio/preview/studio-bot)
+Description: Android Studio Bot is an AI-powered coding assistant within Android Studio, designed to help developers write code faster and more efficiently. It leverages Codey, Google's advanced foundation model for coding
 ### 9. [AI helper Bot](https://topai.tools/t/ai-sql-helper)
 ### 10. [CodeWP](https://codewp.ai/)
 ### 11. [Bugasura](https://bugasura.io/)
