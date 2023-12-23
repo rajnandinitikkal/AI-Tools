@@ -155,6 +155,7 @@ Description: Generate, edit, and explain code with Replit AI.Collaborate in our 
 ### 5. [AskCodi](https://www.askcodi.com/)
 Description: AskCodi is an AI-powered code assistant designed to help developers write code faster and with less effort.
 ### 6. [Codiga](https://www.codiga.io/)
+Description : Codiga uses advanced code analysis techniques to identify code issues and security vulnerabilities. Support for multiple languages: The tool supports a range of programming languages, including Java, C, C++, Python, and more.
 ### 7. [WPCode](https://wpcode.com/)
 ### 8. [Android Studio Bot](https://developer.android.com/studio/preview/studio-bot)
 Description: Android Studio Bot is an AI-powered coding assistant within Android Studio, designed to help developers write code faster and more efficiently. It leverages Codey, Google's advanced foundation model for coding
