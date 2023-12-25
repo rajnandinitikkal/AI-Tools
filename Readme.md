@@ -144,23 +144,32 @@ Free/Paid: Free to use. <br>
 ## AI Coding Assistants
 
 ### 1. [GitHub Copilot](https://github.com/features/copilot)
-Description: Get AI-based suggestions in real-time. GitHub Copilot suggests code completions as developers type and turns natural language prompts into coding suggestions. <br>
+Description: Get AI-based suggestions in real time. GitHub Copilot suggests code completions as developers type and turn natural language prompts into coding suggestions. <br>
 Free/Paid: Free to use.
 ### 2. [Tabnine](https://www.tabnine.com/)
 Description: Tabnine is a valuable AI assistant for developers, offering AI-powered code completions and suggestions to enhance productivity. It supports various programming languages and major IDEs, allowing developers to benefit from its intelligent code suggestions.
 
 ### 3. [Replit](https://replit.com/)
-Description: Generate, edit, and explain code with Replit AI.Collaborate in our real-time multiplayer editor.Build, test, and deploy directly from the browser.
+Description: Generate, edit, and explain code with Replit AI. Collaborate in our real-time multiplayer editor. Build, test, and deploy directly from the browser.
+
 ### 4. [Soursegraphy Cody](https://about.sourcegraph.com/cody)
+
 Description: Cody is the most powerful and accurate AI coding assistant for writing, fixing, and maintaining code.
+
 
 ### 5. [AskCodi](https://www.askcodi.com/)
 Description: AskCodi is an AI-powered code assistant designed to help developers write code faster and with less effort.
+
 ### 6. [Codiga](https://www.codiga.io/)
+Description: Codiga is a static code analysis tool that helps developers improve the quality of their code. It does this by analyzing your code for errors, security vulnerabilities, and potential bugs, and then providing you with actionable insights on how to fix them.
+
 Description : Codiga uses advanced code analysis techniques to identify code issues and security vulnerabilities. Support for multiple languages: The tool supports a range of programming languages, including Java, C, C++, Python, and more.
+
 ### 7. [WPCode](https://wpcode.com/)
+
 ### 8. [Android Studio Bot](https://developer.android.com/studio/preview/studio-bot)
 Description: Android Studio Bot is an AI-powered coding assistant within Android Studio, designed to help developers write code faster and more efficiently. It leverages Codey, Google's advanced foundation model for coding
+
 ### 9. [AI helper Bot](https://topai.tools/t/ai-sql-helper)
 ### 10. [CodeWP](https://codewp.ai/)
 ### 11. [Bugasura](https://bugasura.io/)
