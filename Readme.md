@@ -152,6 +152,8 @@ Description: Tabnine is a valuable AI assistant for developers, offering AI-powe
 ### 3. [Replit](https://replit.com/)
 Description: Generate, edit, and explain code with Replit AI.Collaborate in our real-time multiplayer editor.Build, test, and deploy directly from the browser.
 ### 4. [Soursegraphy Cody](https://about.sourcegraph.com/cody)
+Description: Cody is the most powerful and accurate AI coding assistant for writing, fixing, and maintaining code.
+
 ### 5. [AskCodi](https://www.askcodi.com/)
 Description: AskCodi is an AI-powered code assistant designed to help developers write code faster and with less effort.
 ### 6. [Codiga](https://www.codiga.io/)
@@ -165,4 +167,4 @@ Description: Android Studio Bot is an AI-powered coding assistant within Android
 ### 12. [Codium](https://www.codium.ai/)
 ### 13. [CodeGPT](https://www.codegpt.co/)
 ### 14. [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
-
+###
