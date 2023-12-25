@@ -154,6 +154,9 @@ Description: Generate, edit, and explain code with Replit AI. Collaborate in our
 
 ### 4. [Soursegraphy Cody](https://about.sourcegraph.com/cody)
 
+Description: Cody is the most powerful and accurate AI coding assistant for writing, fixing, and maintaining code.
+
+
 ### 5. [AskCodi](https://www.askcodi.com/)
 Description: AskCodi is an AI-powered code assistant designed to help developers write code faster and with less effort.
 
@@ -173,4 +176,4 @@ Description: Android Studio Bot is an AI-powered coding assistant within Android
 ### 12. [Codium](https://www.codium.ai/)
 ### 13. [CodeGPT](https://www.codegpt.co/)
 ### 14. [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
-
+###
