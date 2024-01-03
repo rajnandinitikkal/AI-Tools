@@ -171,10 +171,17 @@ Description: Android Studio Bot is an AI-powered coding assistant within Android
 
 ### 9. [AI helper Bot](https://topai.tools/t/ai-sql-helper)
 Description: AI Helper Bot is a tool that generates SQL queries instantly, without prior SQL knowledge, using everyday language (GPT-4).
+
 ### 10. [CodeWP](https://codewp.ai/)
 ### 11. [Bugasura](https://bugasura.io/)
+
+Description: 
+Bugasura is a web-based bug tracking platform designed to help teams manage software bugs and issues efficiently. It's particularly appealing for fast-moving SaaS teams due to its user-friendly interface, focus on speed and collaboration, and affordable pricing.
+
 ### 12. [Codium](https://www.codium.ai/)
+
 ### 13. [CodeGPT](https://www.codegpt.co/)
 Description: CodeGPT is an AI-powered coding assistant that integrates into popular IDEs and offers a command-line interface (CLI). It harnesses the power of large language models (LLMs) to enhance your programming experience in various ways.
+
 ### 14. [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
 
