@@ -162,8 +162,7 @@ Description: AskCodi is an AI-powered code assistant designed to help developers
 
 ### 6. [Codiga](https://www.codiga.io/)
 Description: Codiga is a static code analysis tool that helps developers improve the quality of their code. It does this by analyzing your code for errors, security vulnerabilities, and potential bugs, and then providing you with actionable insights on how to fix them.
-
-Description : Codiga uses advanced code analysis techniques to identify code issues and security vulnerabilities. Support for multiple languages: The tool supports a range of programming languages, including Java, C, C++, Python, and more.
+Codiga uses advanced code analysis techniques to identify code issues and security vulnerabilities. Support for multiple languages: The tool supports a range of programming languages, including Java, C, C++, Python, and more.
 
 ### 7. [WPCode](https://wpcode.com/)
 
@@ -171,9 +170,10 @@ Description : Codiga uses advanced code analysis techniques to identify code iss
 Description: Android Studio Bot is an AI-powered coding assistant within Android Studio, designed to help developers write code faster and more efficiently. It leverages Codey, Google's advanced foundation model for coding
 
 ### 9. [AI helper Bot](https://topai.tools/t/ai-sql-helper)
+Description: AI Helper Bot is a tool that generates SQL queries instantly, without prior SQL knowledge, using everyday language (GPT-4).
 ### 10. [CodeWP](https://codewp.ai/)
 ### 11. [Bugasura](https://bugasura.io/)
 ### 12. [Codium](https://www.codium.ai/)
 ### 13. [CodeGPT](https://www.codegpt.co/)
 ### 14. [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
-###
+
