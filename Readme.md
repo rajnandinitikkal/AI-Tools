@@ -175,5 +175,6 @@ Description: AI Helper Bot is a tool that generates SQL queries instantly, witho
 ### 11. [Bugasura](https://bugasura.io/)
 ### 12. [Codium](https://www.codium.ai/)
 ### 13. [CodeGPT](https://www.codegpt.co/)
+Description: CodeGPT is an AI-powered coding assistant that integrates into popular IDEs and offers a command-line interface (CLI). It harnesses the power of large language models (LLMs) to enhance your programming experience in various ways.
 ### 14. [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
 
