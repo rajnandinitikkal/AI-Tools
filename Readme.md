@@ -13,7 +13,7 @@ Free/Paid:
   - Free version -- GPT-3.5
   - Paid version -- GPT-4
 <br><br>
-• Check Here how to use <br>
+Check Here how to use <br>
 
 [In English](https://www.youtube.com/watch?v=AXn2XVLf7d) <br>
 [In Hindi](https://www.youtube.com/watch?v=Nz1MI8nsFTs)
@@ -57,6 +57,13 @@ Writesonic offers a free plan where you get 10k free premium words
 [Check Here How To Use Copy.ai](https://www.youtube.com/watch?v=eQOVtoqnhcs)<br>
 [Check Here How To Use Writesonic](https://www.youtube.com/watch?v=IppylucTfP0)
 
+### [Yoodli](https://app.yoodli.ai/)
+Description: Practice your next interview/ speech/ presentation and get feedback from AI on how you can improve it so that you can ace it.
+
+### [Formula Dog](https://formula.dog/)
+Description: Fetch formula for:
+- English to MS Excel/Google Sheet/Airtable
+- English to SQL
 
 ## Remove background from video
 ### • [runwayml.ai](https://runway.ai/)
