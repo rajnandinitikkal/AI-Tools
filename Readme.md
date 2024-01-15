@@ -128,7 +128,7 @@ Free/Paid :
 
 ## Create PPT
 ### • [Gamma App](https://gamma.app/)
-Description: Gamma app is a new medium for presenting ideas, powered by AI. It allows you to create beautiful, engaging content without any of the formatting or design work.
+Description: Gamma app is a new medium for presenting ideas, powered by AI. It allows you to create beautiful, engaging content without any formatting or design work.
 ### • [Tome.app](https://tome.app/)
 
 Free/Paid :
@@ -148,20 +148,18 @@ Like most AI chatbots, Bard can code, answer math problems, and help with your w
 Free/Paid: Free to use. <br>
 [Check Here How To use Google Bard](https://www.youtube.com/watch?v=Qay0SzVNaFU)
 
+
 ## AI Coding Assistants
 
 ### 1. [GitHub Copilot](https://github.com/features/copilot)
-Description: Get AI-based suggestions in real time. GitHub Copilot suggests code completions as developers type and turn natural language prompts into coding suggestions. <br>
+Description: Get AI-based suggestions in real-time. GitHub Copilot suggests code completions as developers type and turn natural language prompts into coding suggestions. <br>
 Free/Paid: Free to use.
+
 ### 2. [Tabnine](https://www.tabnine.com/)
 Description: Tabnine is a valuable AI assistant for developers, offering AI-powered code completions and suggestions to enhance productivity. It supports various programming languages and major IDEs, allowing developers to benefit from its intelligent code suggestions.
 
 ### 3. [Replit](https://replit.com/)
-
-Description: Generate, edit, and explain code with Replit AI.Collaborate in our real-time multiplayer editor.Build, test, and deploy directly from the browser.
-
 Description: Generate, edit, and explain code with Replit AI. Collaborate in our real-time multiplayer editor. Build, test, and deploy directly from the browser.
-
 
 ### 4. [Soursegraphy Cody](https://about.sourcegraph.com/cody)
 
@@ -176,6 +174,7 @@ Description: Codiga is a static code analysis tool that helps developers improve
 Codiga uses advanced code analysis techniques to identify code issues and security vulnerabilities. Support for multiple languages: The tool supports a range of programming languages, including Java, C, C++, Python, and more.
 
 ### 7. [WPCode](https://wpcode.com/)
+Description: It is a WordPress plugin that adds custom features to your WordPress site safely and easily with code snippets. No theme editing is needed!  Organize, share, and boost performance.
 
 ### 8. [Android Studio Bot](https://developer.android.com/studio/preview/studio-bot)
 Description: Android Studio Bot is an AI-powered coding assistant within Android Studio, designed to help developers write code faster and more efficiently. It leverages Codey, Google's advanced foundation model for coding
@@ -187,7 +186,7 @@ Description: AI Helper Bot is a tool that generates SQL queries instantly, witho
 
 ### 11. [Bugasura](https://bugasura.io/)
 Description: 
-Bugasura is a web-based bug tracking platform designed to help teams manage software bugs and issues efficiently. It's particularly appealing for fast-moving SaaS teams due to its user-friendly interface, focus on speed and collaboration, and affordable pricing.
+Bugasura is a web-based bug-tracking platform designed to help teams manage software bugs and issues efficiently. It's particularly appealing for fast-moving SaaS teams due to its user-friendly interface, focus on speed and collaboration, and affordable pricing.
 
 ### 12. [Codium](https://www.codium.ai/)
 Description: AI-powered developer tools for secure and efficient coding. Generate tests, review code changes, write boilerplate, and boost your productivity.
