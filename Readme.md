@@ -140,8 +140,8 @@ Upgrade for More Presentations.
 [Check Here How To Use Gamma app](https://www.youtube.com/watch?v=Kxqx-Fgk2TA)
 
 
-### • [Google Bard](https://bard.google.com/)
-Description: Bard is Google's experimental, conversational, AI chat service. It is meant to function similarly to ChatGPT, with the biggest difference being that Google's service will pull its information from the web. 
+### • [Google Gemini](https://gemini.google.com/)
+Description: Gemini is Google's experimental, conversational, AI chat service. It is meant to function similarly to ChatGPT, with the biggest difference being that Google's service will pull its information from the web. 
 <br>
 Like most AI chatbots, Bard can code, answer math problems, and help with your writing needs.
 
@@ -152,7 +152,7 @@ Free/Paid: Free to use. <br>
 ## AI Coding Assistants
 
 ### 1. [GitHub Copilot](https://github.com/features/copilot)
-Description: Get AI-based suggestions in real-time. GitHub Copilot suggests code completions as developers type and turn natural language prompts into coding suggestions. <br>
+Description: Get AI-based suggestions in real time. GitHub Copilot suggests code completions as developers type and turn natural language prompts into coding suggestions. <br>
 Free/Paid: Free to use.
 
 ### 2. [Tabnine](https://www.tabnine.com/)
@@ -162,7 +162,6 @@ Description: Tabnine is a valuable AI assistant for developers, offering AI-powe
 Description: Generate, edit, and explain code with Replit AI. Collaborate in our real-time multiplayer editor. Build, test, and deploy directly from the browser.
 
 ### 4. [Soursegraphy Cody](https://about.sourcegraph.com/cody)
-
 Description: Cody is the most powerful and accurate AI coding assistant for writing, fixing, and maintaining code.
 
 
