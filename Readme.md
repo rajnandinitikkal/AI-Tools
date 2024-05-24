@@ -20,6 +20,16 @@ Check Here how to use <br>
 
 <br>
 
+### • [Google Gemini](https://gemini.google.com/)
+Description: Gemini is Google's experimental, conversational, AI chat service. It is meant to function similarly to ChatGPT, with the biggest difference being that Google's service will pull its information from the web. 
+<br>
+Like most AI chatbots, Bard can code, answer math problems, and help with your writing needs.
+
+Free/Paid: Free to use. <br>
+[Check Here How To use Google Gemini](https://www.youtube.com/watch?v=Qay0SzVNaFU)
+
+<br>
+
 ## Platform for finding AI Tools 
 ### • [Futurepedia](https://www.futurepedia.io/)
 Description:
@@ -31,6 +41,8 @@ Free/Paid: <br>
   You can check here how to use <br>
   [In Hindi](https://www.youtube.com/watch?v=O__lsy8fETI)<br>
   [In English](https://www.youtube.com/watch?v=TEYefFL7tZE)
+  
+<br>
 
 ## Finding bugs and errors in code
 ### • [DeepCode](https://medium.com/@deepcode.ai)
@@ -139,14 +151,6 @@ Upgrade for More Presentations.
 [Check Here How To Use Tome.app](https://www.youtube.com/watch?v=QoctedRQz3c)<br>
 [Check Here How To Use Gamma app](https://www.youtube.com/watch?v=Kxqx-Fgk2TA)
 
-
-### • [Google Gemini](https://gemini.google.com/)
-Description: Gemini is Google's experimental, conversational, AI chat service. It is meant to function similarly to ChatGPT, with the biggest difference being that Google's service will pull its information from the web. 
-<br>
-Like most AI chatbots, Bard can code, answer math problems, and help with your writing needs.
-
-Free/Paid: Free to use. <br>
-[Check Here How To use Google Bard](https://www.youtube.com/watch?v=Qay0SzVNaFU)
 
 
 ## AI Coding Assistants
