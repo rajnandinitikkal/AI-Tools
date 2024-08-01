@@ -30,6 +30,13 @@ Free/Paid: Free to use. <br>
 
 <br>
 
+### • [Grok]()
+Description:
+Grok is a generative artificial intelligence chatbot developed by twitter. Based on a large language model, it was developed as an initiative by Elon Musk.
+
+Free/Paid: <br>
+  - A subscription to twitter Premium or twitter Premium+ is required to access Grok.
+
 ## Platform for finding AI Tools 
 ### • [Futurepedia](https://www.futurepedia.io/)
 Description:
